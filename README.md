@@ -1,6 +1,6 @@
 # Welcome to the best Free IP Stresser & Free Booter Tool 🚀
 
-**Made by https://nightmare-stresser.co 🌙**
+**Made by https://ipstresser.pro 🌙**
 
 ## 🚀 Introduction
 
@@ -85,10 +85,9 @@ Say hello to **Super Python Stresser v6**—a powerhouse *Python IP Stresser* an
 - 📏 **Packet Size:** 1-65500 bytes for UDP/TCP methods.
 
 ### 🖥️ Cool Vibes:
-- 🎨 ASCII art intro: `Super Python Stresser V3 - Made by https://nightmare-stresser.co`.
+- 🎨 ASCII art intro: `Super Python Stresser V3 - Made by https://ipstresser.pro`.
 - 🌈 **Colors:** Cyan (start), Green (done), Red (errors).
 - 📊 **Tracks packets/connections/requests** post-attack.
-- 🏷️ Window title: `Super Python Stresser V3 By nightmare-stresser.co`.
 
 ---
 
@@ -101,8 +100,7 @@ Simply download the python code and then run it with python3 toolname.py
 
 
 🙌 Credits
-🌙 Made by https://nightmare-stresser.co
-🔥 Crafted by the network pros at https://nightmare-stresser.co.
+🌙 Made by https://ipstresser.pro
 🚀 Your elite hub for server stress-testing and diagnostics!
 
 📜 License
