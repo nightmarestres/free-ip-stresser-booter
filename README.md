@@ -1,10 +1,10 @@
-# Welcome to the best Free IP Stresser & Free Booter Tool 🚀
+# The to the best Free IP Stresser & Free Booter Tool 2026 🚀
 
 **Made by https://ipstresser.pro 🌙**
 
 ## 🚀 Introduction
 
-Say hello to **Super Python Stresser v6**—a powerhouse *Python IP Stresser* and *IP Booter* built for network enthusiasts and pros!
+Say hello to **Super Python Stresser v8**—a powerhouse *Python IP Stresser* and *IP Booter* built for network enthusiasts and pros!
 
 - 🎮 Packed with **14 game-specific floods**, **7 UDP**, **7 TCP**, and **6 HTTP** methods to push servers to their limits.
 - 🔍 Features **CheckHost diagnostics** and **15 API-powered tools** for advanced network reconnaissance.
